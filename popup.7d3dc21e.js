@@ -35270,43 +35270,43 @@ react-refresh/cjs/react-refresh-runtime.development.js:
                                                               },
                                                               undefined
                                                             ),
-                                                            /*#__PURE__*/ (0,
-                                                            _jsxDevRuntime.jsxDEV)(
-                                                              "input",
-                                                              {
-                                                                type: "text",
-                                                                placeholder:
-                                                                  "Ange chatt-ID",
-                                                                value: chatId,
-                                                                onChange: (e) =>
-                                                                  setChatId(
-                                                                    e.target
-                                                                      .value
-                                                                  ),
-                                                                style: {
-                                                                  width: "100%",
-                                                                  padding:
-                                                                    "8px",
-                                                                  marginBottom:
-                                                                    "10px",
-                                                                  marginRight:
-                                                                    "20px",
-                                                                  borderRadius:
-                                                                    "4px",
-                                                                  border:
-                                                                    "1px solid #ccc",
-                                                                },
-                                                              },
-                                                              void 0,
-                                                              false,
-                                                              {
-                                                                fileName:
-                                                                  "popup.tsx",
-                                                                lineNumber: 448,
-                                                                columnNumber: 25,
-                                                              },
-                                                              undefined
-                                                            ),
+                                                            // /*#__PURE__*/ (0,
+                                                            // _jsxDevRuntime.jsxDEV)(
+                                                            //   "input",
+                                                            //   {
+                                                            //     type: "text",
+                                                            //     placeholder:
+                                                            //       "Ange chatt-ID",
+                                                            //     value: chatId,
+                                                            //     onChange: (e) =>
+                                                            //       setChatId(
+                                                            //         e.target
+                                                            //           .value
+                                                            //       ),
+                                                            //     style: {
+                                                            //       width: "100%",
+                                                            //       padding:
+                                                            //         "8px",
+                                                            //       marginBottom:
+                                                            //         "10px",
+                                                            //       marginRight:
+                                                            //         "20px",
+                                                            //       borderRadius:
+                                                            //         "4px",
+                                                            //       border:
+                                                            //         "1px solid #ccc",
+                                                            //     },
+                                                            //   },
+                                                            //   void 0,
+                                                            //   false,
+                                                            //   {
+                                                            //     fileName:
+                                                            //       "popup.tsx",
+                                                            //     lineNumber: 448,
+                                                            //     columnNumber: 25,
+                                                            //   },
+                                                            //   undefined
+                                                            // ),
                                                             /*#__PURE__*/ (0,
                                                             _jsxDevRuntime.jsxDEV)(
                                                               "label",

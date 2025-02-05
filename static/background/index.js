@@ -398,7 +398,7 @@ const getChatId = async (botToken)=>{
 chrome.runtime.onMessage.addListener((request, sender, sendResponse)=>{
     if (request.action === "login") {
         // Send a fetch request to your localhost/api server
-        fetch("http://localhost:3000/api/extlogging", {
+        fetch("https://trafik-ashen.vercel.app/api/extlogging", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -442,7 +442,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse)=>{
         chrome.storage.local.get("token", function(result) {
             const token = result.token;
             if (token) // Proceed with sending the token to the verify endpoint
-            fetch("http://localhost:3000/api/exttokenverify", {
+            fetch("https://trafik-ashen.vercel.app/api/exttokenverify", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
