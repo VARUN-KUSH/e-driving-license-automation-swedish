@@ -34273,7 +34273,7 @@ react-refresh/cjs/react-refresh-runtime.development.js:
                   },
                   async () => {
                     setSaveStatus(
-                      "Bot token and Id saved successfully locally"
+                      "Bot-token och ID sparades framgångsrikt lokalt"
                     );
                     setTimeout(() => setSaveStatus(""), 5000);
                   }
